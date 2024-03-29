@@ -1,0 +1,1 @@
+enum PasswordType { change, create }
